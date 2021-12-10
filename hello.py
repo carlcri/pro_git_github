@@ -2,7 +2,7 @@ import math, random
 from data import ANIMALS
 
 
-print('Welcome')
+print('Welcome to the jungle')
 
 multiples_of_5 = [i for i in range(50) if i%5 == 0 and i>0]
 
