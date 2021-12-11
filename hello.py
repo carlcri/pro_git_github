@@ -19,6 +19,7 @@ print(ANIMALS)
 print(odd)
 print(even)
 
-if __name__ == "__main__":
-    print('hello world')
+
+
+#if __name__ == "__main__":
 
