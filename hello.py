@@ -2,6 +2,8 @@ import math, random
 from data import ANIMALS
 
 
+
+
 print('Welcome to the jungle')
 
 multiples_of_5 = [i for i in range(50) if i%5 == 0 and i>0]
@@ -17,5 +19,6 @@ print(ANIMALS)
 print(odd)
 print(even)
 
-
+if __name__ == "__main__":
+    print('hello world')
 

@@ -1,7 +1,7 @@
 ANIMALS = {'Antonia':'gato',
- 'Luna':'perro',
- 'Coki': 'perro',
- 'Po':'panda',
- 'Cristinita':'perro',
- 'Canela':'perro',
+ 'Luna':'Perro',
+ 'Coki': 'Perro',
+ 'Po':'Panda',
+ 'Cristinita':'Perro',
+ 'Canela':'Perro',
  'Roberto':'Loro'}
