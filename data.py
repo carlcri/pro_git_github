@@ -2,4 +2,6 @@ ANIMALS = {'Antonia':'gato',
  'Luna':'perro',
  'Coki': 'perro',
  'Po':'panda',
- 'Cristinita':'perro'}
+ 'Cristinita':'perro',
+ 'Canela':'perro',
+ 'Roberto':'Loro'}
