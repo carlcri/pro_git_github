@@ -1,4 +1,4 @@
-import pdb
+import pdb; pdb.set_trace()
 
 def sum(list):
     sum = 0
@@ -7,8 +7,7 @@ def sum(list):
     return sum
 
 if __name__ == '__main__':
-    
-    pdb.set_trace()
+
     print('hello')
     digits = []
     for i in range(10):
