@@ -1,14 +1,8 @@
 body
 {
-<<<<<<< HEAD
-    color: rgb(95, 102, 168);
+    color: blue;
     text-align: center;
     font-family: "Courier";
-=======
-    color: rgb(168, 0, 0);
-    text-align: center;
-    font-family: Arial;
->>>>>>> cabezera
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -24,17 +18,10 @@ body
     padding: 0.5em;
 }
 
-#cabecera #tagline
-{
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8em;
-}
-
 #container
 {
     width: 70%;
-    padding: 0;
+    padding: 1em;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
@@ -43,8 +30,4 @@ body
 #container h1
 {
     font-size: 20px;
-}
-#post
-{
-    padding: 1em;
 }
